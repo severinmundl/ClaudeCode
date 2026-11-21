@@ -1,4 +1,4 @@
-# MyGutschein
+# my_gutschein
 
 Vorbereitet für eine `/wayfinder`-Session.
 

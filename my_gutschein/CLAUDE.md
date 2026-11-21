@@ -1,4 +1,4 @@
-# MyGutschein
+# my_gutschein
 
 Projekt für die Wayfinder-Planung von MyGutschein. Noch kein Code; zuerst wird per `/wayfinder` der Weg zum Ziel als Karte aus Entscheidungs-Tickets gezeichnet.
 
